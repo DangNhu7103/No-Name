@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1634526803 source:c:\code\c++\2d_engine\main.cpp
+	"Engine.h"
+
+1634549700 source:c:\code\c++\2d_engine\src\core\engine.cpp
+	"Engine.h"
+	<iostream>
+	"TextureManager.h"
+	"Vector.h"
+	"Transform.h"
+
+1634540073 c:\code\c++\2d_engine\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+
+1634523340 c:\code\c++\2d_engine\src\graphics\texturemanager.h
+	"SDL.h"
+	<string>
+	<map>
+
+1634539329 source:c:\code\c++\2d_engine\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
+1634543542 c:\code\c++\2d_engine\src\physics\vector.h
+	<iostream>
+
+1634551380 c:\code\c++\2d_engine\src\physics\transform.h
+	"vector.h"
+	<iostream>
+
